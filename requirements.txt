@@ -3,7 +3,9 @@ ProxyTypes
 nose
 wsgiref
 feedparser
-Flask-Cors
+Flask==1.0.0
+Flask-Cors==3.0.2
+werkzeug==0.14
 redis
 msgpack-python
 python-dateutil
